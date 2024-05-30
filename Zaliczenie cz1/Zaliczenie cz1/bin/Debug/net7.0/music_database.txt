@@ -1,0 +1,4 @@
+1|Album 1|CD|60:00
+1|1|Song 1|3:30|Composer 1|Performer 1,Performer 2
+2|2|Song 2|4:00|Composer 2|Performer 3
+Performers|Performer 1,Performer 2,Performer 3
